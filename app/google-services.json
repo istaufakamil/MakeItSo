@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254003482556",
+    "project_id": "kamilnativ2",
+    "storage_bucket": "kamilnativ2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254003482556:android:9be7b1b393240251b925b9",
+        "android_client_info": {
+          "package_name": "com.example.makeitso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuWF4ksQd-emp-yHVRm3jA5_dXyETUNZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
